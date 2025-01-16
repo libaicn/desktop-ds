@@ -3,7 +3,7 @@ deepseek最近发布了app,但是没有桌面端,我就帮deepseek做了一个�
 
 
 ## 安装说明
-
+我仅仅测试intel mac 的版本, 没有测试m芯片的版本,因为我没有m mac😭
 
 ### 从源码构建
 
@@ -19,18 +19,13 @@ deepseek最近发布了app,但是没有桌面端,我就帮deepseek做了一个�
 
 #### Windows
 
-- 下载并运行 `.msi` 安装包
+- 我没有Windows电脑,需要的自己下载去编译吧😭
 
 #### macOS
 
 - 下载 `.dmg` 文件
 - 将应用拖入 Applications 文件夹
 
-#### Linux
-
-- 下载 `.AppImage` 文件
-- 添加执行权限：`chmod +x *.AppImage`
-- 运行应用：`./DeepSeek.AppImage`
 
 ## 推荐的开发工具
 

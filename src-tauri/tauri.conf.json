@@ -33,7 +33,11 @@
       "icons/icon.ico"
     ],
     "macOS": {
-      "dmg": {
+      "dmg": {}
+    },
+    "windows": {
+      "wix": {
+        "language": "zh-CN"
       }
     }
   }
